@@ -1,3 +1,5 @@
+The toxicity prediction challenge (Kaggle) predicts the chemicals listed in the CSV which of them are toxic. 
+
 Pre-requisites:
 
 Anaconda - The distribution includes data-science packages (Python 3) suitable for Windows, Linux, and macOS.
